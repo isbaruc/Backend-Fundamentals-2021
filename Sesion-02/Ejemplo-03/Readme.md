@@ -68,6 +68,9 @@ Al proceso de agregar información a una tabla se le conoce como poblarla. En es
 
 <img src="img/img13.png">
 
+> Importante: Verificar que si los datos tienen encabezado, palomear la casilla de encabezados en pgAdmin
+>
+> Verificar también el apartado de encoding
 14. Debe aparecer un mensaje e éxito en la carga.
 
 <img src="img/img14.png">
